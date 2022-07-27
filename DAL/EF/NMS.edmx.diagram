@@ -7,8 +7,8 @@
       <Diagram DiagramId="099e89f431c84e148da5dd67a3c142c0" Name="Diagram1">
         <EntityTypeShape EntityType="NMSModel.Category" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
         <EntityTypeShape EntityType="NMSModel.News" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="NMSModel.sysdiagram" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="NMSModel.User" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NMSModel.sysdiagram" Width="1.5" PointX="5.625" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NMSModel.User" Width="1.5" PointX="0.875" PointY="3.75" IsExpanded="true" />
         <AssociationConnector Association="NMSModel.FK_News_Categories" ManuallyRouted="false" />
         <AssociationConnector Association="NMSModel.FK_News_Users" ManuallyRouted="false" />
       </Diagram>
